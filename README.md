@@ -1,5 +1,3 @@
-## 👩‍💻 Bio
-
 Hi! I'm **Nilima Rout**, a passionate and result-oriented **Software Developer** who loves building clean, scalable, and user-friendly applications.  
 I enjoy working with Python, Django, REST APIs, and modern web technologies.  
 My focus is on writing efficient backend logic, secure authentication systems, and smooth, production-ready deployments 🚀  
